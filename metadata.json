@@ -1,7 +1,0 @@
-{
-  "name": "QuickRes Mobile",
-  "description": "A high-speed, mobile-first reservation dashboard for tour & activity operators. Features AI-powered 'Magic Paste' to parse unstructured booking requests instantly.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
